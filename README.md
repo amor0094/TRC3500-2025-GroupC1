@@ -1,1 +1,17 @@
 # TRC3500-2025-GroupC1
+
+## Project Overview
+This repository contains the project files for TRC3500 Group C1, 2025.
+
+## Collaborators
+>
+1. Abdeali Haider Morbiwala (33728186) amor0094@student.monash.edu
+2. 
+3. 
+4. 
+
+## Getting Started
+Clone the repository:
+```
+git clone https://github.com/amor0094/TRC3500-2025-GroupC1.git
+```
