@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\Admin\Documents\TRC3500\TRC3500-2025-GroupC1\Project-2\LTSpice_sim\Circuit.asc
-Start Time: Wed Apr 23 02:27:24 2025
+Start Time: Fri May  2 18:16:49 2025
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -9,5 +9,5 @@ method = modified trap
 Limiting rise time of source v1 to 0.4
 Limiting fall time of source v1 to 0.4
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.092 seconds.
+Total elapsed time: 0.248 seconds.
 
