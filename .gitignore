@@ -1,0 +1,12 @@
+# TRC3500 GroupC1 ignore 
+*/.metadata
+*/*/.metadata
+*/*/.settings
+*/*/Debug
+*/*/Drivers
+*/*/.cproject
+*/*/.mxproject
+*/*/.project
+*/*/*Debug.launch
+*/*/*STM32L432KCUX_FLASH.ld
+*/*/Core/Startup
