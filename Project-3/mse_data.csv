@@ -1,0 +1,7 @@
+Condition,Method,MSE
+Resting,Thermistor,2.96
+Resting,Pressure,1.78
+Resting,Fused,1
+Exercise,Thermistor,3.75
+Exercise,Pressure,2.83
+Exercise,Fused,1.25
